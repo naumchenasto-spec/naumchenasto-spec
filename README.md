@@ -1,7 +1,7 @@
-Hey, I'm Naumche 👋
+# Hey, I'm Naumche 👋
 I study Computer Science & Engineering at UIST "St. Paul the Apostle" in Ohrid, North Macedonia. I'm in my second year, and most of what I know I've learned by building things I actually needed.
 
-🍽️ Menu Companion
+### 🍽️ Menu Companion
 I spent last summer waiting tables. Guests would ask me what was in a dish — sometimes out of curiosity, sometimes because the wrong ingredient would make them ill — and they'd ask in Macedonian, Albanian or English. I was either carrying a paper menu around or trying to hold thirty dishes in my head.
 
 So I wrote something better.
@@ -12,11 +12,15 @@ Plain Java. No frameworks, no libraries, no build tool — just a text file and 
 
 → github.com/naumchenasto-spec/menu-companion
 
-🛠️ What I work with
+---
+
+### 🛠️ What I work with
 Hey, I'm Naumche 👋
 I study Computer Science & Engineering at UIST "St. Paul the Apostle" in Ohrid, North Macedonia. I'm in my second year, and most of what I know I've learned by building things I actually needed.
 
-🍽️ Menu Companion
+---
+
+### 🍽️ Menu Companion
 I spent last summer waiting tables. Guests would ask me what was in a dish — sometimes out of curiosity, sometimes because the wrong ingredient would make them ill — and they'd ask in Macedonian, Albanian or English. I was either carrying a paper menu around or trying to hold thirty dishes in my head.
 
 So I wrote something better.
@@ -27,14 +31,16 @@ Plain Java. No frameworks, no libraries, no build tool — just a text file and 
 
 → https://github.com/naumchenasto-spec/menu-companion
 
-🛠️ What I work with
+---
 
-<img width="1236" height="418" alt="image" src="https://github.com/user-attachments/assets/a12980d2-5b1a-425d-86e9-f726adff19ba" />
+### 🛠️ What I work with
+
+<img width="750" height="418" alt="image" src="https://github.com/user-attachments/assets/a12980d2-5b1a-425d-86e9-f726adff19ba" />
 
 
 Java is where I'm most comfortable. I've been compiling from the terminal rather than clicking Run, which was annoying for about a week and then started making a lot of things clearer.
 
-📚 Right now
+### 📚 Right now
 
 Working through data structures and algorithms also learning databases, and looking for a software engineering internship where I can build things with people who know more than I do.
 
