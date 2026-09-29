@@ -35,6 +35,7 @@ Plain Java. No frameworks, no libraries, no build tool — just a text file and 
 Java is where I'm most comfortable. I've been compiling from the terminal rather than clicking Run, which was annoying for about a week and then started making a lot of things clearer.
 
 📚 Right now
+
 Working through data structures and algorithms also learning databases, and looking for a software engineering internship where I can build things with people who know more than I do.
 
 🇲🇰 Macedonian · 🇦🇱 Albanian · 🇬🇧 English
