@@ -1,23 +1,6 @@
 # Hey, I'm Naumche 👋
 I study Computer Science & Engineering at UIST "St. Paul the Apostle" in Ohrid, North Macedonia. I'm in my second year, and most of what I know I've learned by building things I actually needed.
 
-### 🍽️ Menu Companion
-I spent last summer waiting tables. Guests would ask me what was in a dish — sometimes out of curiosity, sometimes because the wrong ingredient would make them ill — and they'd ask in Macedonian, Albanian or English. I was either carrying a paper menu around or trying to hold thirty dishes in my head.
-
-So I wrote something better.
-
-Type a dish name in any of the three languages and it tells you what's in it, what the allergens are, and what it costs — in that same language. You can also ask it the other way round: which dishes contain nuts, or what's on the appetizer menu.
-
-Plain Java. No frameworks, no libraries, no build tool — just a text file and about 320 lines I wrote myself.
-
-→ github.com/naumchenasto-spec/menu-companion
-
----
-
-### 🛠️ What I work with
-Hey, I'm Naumche 👋
-I study Computer Science & Engineering at UIST "St. Paul the Apostle" in Ohrid, North Macedonia. I'm in my second year, and most of what I know I've learned by building things I actually needed.
-
 ---
 
 ### 🍽️ Menu Companion
@@ -43,6 +26,11 @@ Java is where I'm most comfortable. I've been compiling from the terminal rather
 ### 📚 Right now
 
 Working through data structures and algorithms also learning databases, and looking for a software engineering internship where I can build things with people who know more than I do.
+---
+
+### 📫 How to reach me:
+ - Gmail : nastonaumce030@gmail.com
+ - LinkedIn : https://www.linkedin.com/in/naumche-nasto-a31a4b3b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqpJUWa7aRGyTZY0th7Gqow%3D%3D
 
 🇲🇰 Macedonian · 🇦🇱 Albanian · 🇬🇧 English
 
